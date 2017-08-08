@@ -2,6 +2,8 @@
 ### Light Self Organizing Maps
 # 2017, LOCEAN, UPMC, Paris
 # Mendes Oulamara
+# Distributed with no guarantees.
+# This file is in Public Domain.
 # A simple but flexible class for Self Organizing Maps
 # with batch learning
 ########################################################
